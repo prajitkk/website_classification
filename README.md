@@ -4,3 +4,4 @@ The create dataset file allows to scrap the wikipedia articles and we give and w
 at the end with \t delimiter
 the natural_language_processing file allows to train the model after training you can give a website and this website will be scraped and fitted to model and displays output
 as technical or not technical
+just used 2 datasets, You can add multiple websites
